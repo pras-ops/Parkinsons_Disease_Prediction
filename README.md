@@ -1,4 +1,4 @@
-# Parkinsons_Disease_Predictio# Parkinson's Disease Prediction
+# Parkinsons_Disease_Prediction
 
 This project focuses on predicting whether a patient is suffering from Parkinson's disease based on audio/voice measures. Machine learning models are used to analyze the dataset and make predictions.
 
