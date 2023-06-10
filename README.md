@@ -30,7 +30,7 @@ The following findings were observed during the analysis:
 -   Patients affected by Parkinson's disease have high values for 
 1. NHR (noise to tonal components ratio)
 ![download](https://github.com/pras-ops/Parkinsons_Disease_Prediction/assets/56476064/bd302c5f-bbd9-45c5-aa78-e5769257e65d)
-2. HNR (ratio of noise to tonal components)
+3. HNR (ratio of noise to tonal components)
 ![download](https://github.com/pras-ops/Parkinsons_Disease_Prediction/assets/56476064/06b9782d-2c94-4185-9082-d1c767bcba7a)
 -   The nonlinear dynamical complexity measure RPDE is high in patients affected by Parkinson's disease.
 ![download](https://github.com/pras-ops/Parkinsons_Disease_Prediction/assets/56476064/0ef8b956-dfef-4d5e-97bb-f2cbd761bdd8)
