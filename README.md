@@ -26,8 +26,14 @@ The dataset used in this project is stored in the file `parkinsons.data`. It con
 The following findings were observed during the analysis:
 
 -   The dataset has a high number of patients affected by Parkinson's disease.
--   Patients affected by Parkinson's disease have high values for NHR (noise to tonal components ratio) and HNR (ratio of noise to tonal components).
+![download](https://github.com/pras-ops/Parkinsons_Disease_Prediction/assets/56476064/42b7bb4d-25f9-4cca-b197-b3d96dc100fc)
+-   Patients affected by Parkinson's disease have high values for 
+1. NHR (noise to tonal components ratio)
+![download](https://github.com/pras-ops/Parkinsons_Disease_Prediction/assets/56476064/bd302c5f-bbd9-45c5-aa78-e5769257e65d)
+2. HNR (ratio of noise to tonal components)
+![download](https://github.com/pras-ops/Parkinsons_Disease_Prediction/assets/56476064/06b9782d-2c94-4185-9082-d1c767bcba7a)
 -   The nonlinear dynamical complexity measure RPDE is high in patients affected by Parkinson's disease.
+![download](https://github.com/pras-ops/Parkinsons_Disease_Prediction/assets/56476064/0ef8b956-dfef-4d5e-97bb-f2cbd761bdd8)
 -   Random forest model performs better compared to other models, with an accuracy of 94%.
 -   Logistic regression achieved an accuracy of 84%.
 -   Decision tree, Naive Bayes, K-Nearest Neighbors, and Support Vector Machine models were also applied, but random forest yielded the highest accuracy.
